@@ -146,14 +146,6 @@ I'm particularly interested in:
   </a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Coding Philosophy">
-</p>
-
----
-
-> *"First, solve the problem. Then, write the code."*
-> ― John Johnson
 
 ---
 
