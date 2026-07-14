@@ -77,21 +77,6 @@
 
 ---
 
-## 📊 Development Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanjil-islam&show_icons=true&theme=nightowl&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjil-islam&layout=compact&theme=nightowl">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanjil-islam&theme=onedark&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🏅 Problem Solving & Achievements
 
 - 🧠 Solved **400+ problems** on [Codeforces](https://codeforces.com) and 100+ on other platforms
