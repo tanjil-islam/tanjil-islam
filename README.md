@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Md. Tanjirul Islam</h1>
-<h3 align="center">Full Stack Developer | React.js | Next.js | Node.js | NestJS</h3>
+<h3 align="center">Full Stack Developer | React.js | Next.js | Node.js </h3>
 
 <p align="center">
   <a href="https://github.com/tanjil-islam?tab=repositories">
@@ -69,7 +69,7 @@
 | **Quiz App** | [Quiz Application](https://github.com/tanjil-islam/Quiz-Application--React) | Single-page quiz app with Firebase & infinite scroll | `React 19` `Firebase` `React Router DOM` | [![Repo](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tanjil-islam/Quiz-Application--React) [![Demo](https://img.shields.io/badge/Live-brightgreen)](https://quizdeckapp.netlify.app) |
 | **Mobile App** | [Salary Calculator](https://github.com/tanjil-islam/Salary-Calculator) | Cross-platform salary calculator with APK | `React Native` `TypeScript` `Expo` | [![Repo](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tanjil-islam/Salary-Calculator) |
 | **Marketplace** | [Full Stack BazarBD](https://github.com/tanjil-islam/BazarBD) | Bangladeshi online marketplace — monorepo architecture | `NestJS` `Next.js` `PostgreSQL` `TypeScript` | [![Repo](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tanjil-islam/BazarBD) |
-| **Portfolio** | [My Portfolio](https://github.com/tanjil-islam/md-tanjirul-islam-portfolio) | Professional developer portfolio website | `Next.js` `HTML` `CSS` `JavaScript` | [![Repo](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tanjil-islam/md-tanjirul-islam-portfolio) |
+| **Portfolio** | [My Portfolio](https://github.com/tanjil-islam/md-tanjirul-islam-portfolio) | Professional developer portfolio website | `Next.js` `HTML` `CSS` `JavaScript` | [![Repo](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tanjil-islam/md-tanjirul-islam-portfolio) [![Demo](https://img.shields.io/badge/Live-brightgreen)](https://md-tanjirul-islam-portfolio.vercel.app/) |
 | **Game** | [Dabble Game](https://github.com/tanjil-islam/Dabble_Game) | Logic-based interactive puzzle game in Python | `Python` | [![Repo](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tanjil-islam/Dabble_Game) |
 | **Learning** | [React Basic](https://github.com/tanjil-islam/React) | React.js concepts — 19 core topics with examples | `React.js` `JavaScript` `JSX` | [![Repo](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tanjil-islam/React) |
 
@@ -130,7 +130,6 @@ I'm particularly interested in:
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
-
 
 ---
 
