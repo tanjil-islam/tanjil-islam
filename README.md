@@ -35,6 +35,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
 
 ### **Backend**
@@ -48,13 +49,15 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
-### **Tools**
+### **Tools & Hosting**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
+![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=white)
+![Namecheap](https://img.shields.io/badge/-Namecheap-DE3723?logo=namecheap&logoColor=white)
 
 ---
 
@@ -64,6 +67,8 @@
 
 | Category | Project | Description | Tech Stack | Links |
 |---|---|---|---|---|
+| **Car Service** | [RoadmenBD](https://roadmenbd.com/) | Modern car service portfolio website with immersive 3D visuals and smooth animations. Hosted on Vercel with a custom Namecheap domain | `Next.js` `React` `Tailwind CSS` `Three.js` `Framer Motion` `JavaScript` `HTML` | [![Demo](https://img.shields.io/badge/Live-brightgreen)](https://roadmenbd.com/) |
+| **Export-Import** | [IOR Cloud](https://iorcloud.com/) | Professional export-import business portfolio website. Deployed on cPanel hosting | `React.js` `Next.js` `Tailwind CSS` `Framer Motion` `HTML` `CSS` `JavaScript` | [![Demo](https://img.shields.io/badge/Live-brightgreen)](https://iorcloud.com/) |
 | **E-Commerce** | [E-Commerce Platform](https://github.com/tanjil-islam/E-Commerce) | Full-stack e-commerce with payments & admin dashboard | `Next.js` `MongoDB` `PayPal` `Stripe` `Google OAuth` | [![Repo](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tanjil-islam/E-Commerce) [![Demo](https://img.shields.io/badge/Live-brightgreen)](https://e-commerce-rho-nine-30.vercel.app) |
 | **E-Learning** | [E-Learning Website](https://github.com/tanjil-islam/E-Learning-Website) | Responsive e-learning platform with smooth animations | `React.js` `Tailwind CSS` `Framer Motion` | [![Repo](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tanjil-islam/E-Learning-Website) [![Demo](https://img.shields.io/badge/Live-brightgreen)](https://e-learning-website-one-mauve.vercel.app) |
 | **Quiz App** | [Quiz Application](https://github.com/tanjil-islam/Quiz-Application--React) | Single-page quiz app with Firebase & infinite scroll | `React 19` `Firebase` `React Router DOM` | [![Repo](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tanjil-islam/Quiz-Application--React) [![Demo](https://img.shields.io/badge/Live-brightgreen)](https://quizdeckapp.netlify.app) |
@@ -97,6 +102,7 @@
 ## 🌱 Current Focus
 
 - Building scalable full-stack applications with Next.js & NestJS
+- Delivering production business websites with modern animations & 3D (Framer Motion, Three.js)
 - Exploring React Native for cross-platform mobile development
 - Strengthening system design and backend architecture skills
 - Contributing to open-source projects
@@ -107,7 +113,7 @@
 
 I'm particularly interested in:
 - Full-stack web application development
-- React.js / Next.js frontend projects
+- Business & portfolio website development (React.js / Next.js)
 - Node.js / NestJS backend API development
 - React Native mobile applications
 - E-commerce platform development
