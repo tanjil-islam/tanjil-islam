@@ -67,8 +67,8 @@
 
 | Category | Project | Description | Tech Stack | Links |
 |---|---|---|---|---|
-| **Car Service** | [RoadmenBD](https://roadmenbd.com/) | Modern car service portfolio website with immersive 3D visuals and smooth animations. Hosted on Vercel with a custom Namecheap domain | `Next.js` `React` `Tailwind CSS` `Three.js` `Framer Motion` `JavaScript` `HTML` | [![Demo](https://img.shields.io/badge/Live-brightgreen)](https://roadmenbd.com/) |
 | **Export-Import** | [IOR Cloud](https://iorcloud.com/) | Professional export-import business portfolio website. Deployed on cPanel hosting | `React.js` `Next.js` `Tailwind CSS` `Framer Motion` `HTML` `CSS` `JavaScript` | [![Demo](https://img.shields.io/badge/Live-brightgreen)](https://iorcloud.com/) |
+| **Car Service** | [RoadmenBD](https://roadmenbd.com/) | Modern car service portfolio website with immersive 3D visuals and smooth animations. Hosted on Vercel with a custom Namecheap domain | `Next.js` `React` `Tailwind CSS` `Three.js` `Framer Motion` `JavaScript` `HTML` | [![Demo](https://img.shields.io/badge/Live-brightgreen)](https://roadmenbd.com/) |
 | **E-Commerce** | [E-Commerce Platform](https://github.com/tanjil-islam/E-Commerce) | Full-stack e-commerce with payments & admin dashboard | `Next.js` `MongoDB` `PayPal` `Stripe` `Google OAuth` | [![Repo](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tanjil-islam/E-Commerce) [![Demo](https://img.shields.io/badge/Live-brightgreen)](https://e-commerce-rho-nine-30.vercel.app) |
 | **E-Learning** | [E-Learning Website](https://github.com/tanjil-islam/E-Learning-Website) | Responsive e-learning platform with smooth animations | `React.js` `Tailwind CSS` `Framer Motion` | [![Repo](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tanjil-islam/E-Learning-Website) [![Demo](https://img.shields.io/badge/Live-brightgreen)](https://e-learning-website-one-mauve.vercel.app) |
 | **Quiz App** | [Quiz Application](https://github.com/tanjil-islam/Quiz-Application--React) | Single-page quiz app with Firebase & infinite scroll | `React 19` `Firebase` `React Router DOM` | [![Repo](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/tanjil-islam/Quiz-Application--React) [![Demo](https://img.shields.io/badge/Live-brightgreen)](https://quizdeckapp.netlify.app) |
@@ -88,7 +88,7 @@
 - 🥇 **11th Place** — Intra-AIUB Male Programming Contest
 - 🏆 **Top 10 Team at AIUB** — ICPC Asia Dhaka Regional Online Contest **2023 & 2024**
 - 🎯 **Top 25–30** — AIUB Programming Competition 2023, 2024 & 2025
-- 🔬 Research: **Alzheimer's Disease Surveillance** using CDC Data & Hybrid Ensemble Models
+- 🔬 Research: **Alzheimer's Disease Surveillance** using CDC Data & Hybrid Ensemble Models - Published on Malaysian Journal of Science and Advanced Technology 
 
 ---
 
@@ -96,6 +96,8 @@
 
 - ✅ **Algorithms and Problem-Solving in JavaScript** — Packt, Coursera (2025)
 - ✅ **Data Structures in JavaScript** — Packt, Coursera (2025)
+- ✅ **National Skills Certificate in Web Design – Level 3** — (NSDA Certificate)
+- ✅ **Frontend Developer (React) Certificate** — hackerrank
 
 ---
 
