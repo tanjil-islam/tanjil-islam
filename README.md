@@ -88,7 +88,7 @@
 - 🥇 **11th Place** — Intra-AIUB Male Programming Contest
 - 🏆 **Top 10 Team at AIUB** — ICPC Asia Dhaka Regional Online Contest **2023 & 2024**
 - 🎯 **Top 25–30** — AIUB Programming Competition 2023, 2024 & 2025
-- 🔬 Research: **Alzheimer's Disease Surveillance** using CDC Data & Hybrid Ensemble Models - Published on Malaysian Journal of Science and Advanced Technology 
+- 🔬 Research: **Alzheimer's Disease Surveillance** using CDC Data & Hybrid Ensemble Models - **Published on Malaysian Journal of Science and Advanced Technology** 
 
 ---
 
