@@ -2,9 +2,6 @@
 <h3 align="center">Full Stack Developer | React.js | Next.js | Node.js | Express.js </h3>
 
 <p align="center">
-  <a href="https://github.com/tanjil-islam?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=tanjil-islam&color=blueviolet&style=for-the-badge" alt="Profile Views">
-  </a>
   <a href="https://github.com/tanjil-islam?tab=followers">
     <img src="https://img.shields.io/github/followers/tanjil-islam?label=Follow&style=for-the-badge&color=success" alt="GitHub Followers">
   </a>
